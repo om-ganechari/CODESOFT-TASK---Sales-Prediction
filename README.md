@@ -7,7 +7,19 @@ This is a **Machine Learning Web App** built with **Streamlit** that predicts pr
 - Real-time sales prediction
 - Correlation heatmap of dataset
 - Simple & fast deployment
+- -----------
+##📂File Structure
+sales-prediction-app/
+│
+├── data/
+│   └── advertising.csv
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── LICENSE
 
+--------------
 ## 📂 Dataset
 `advertising.csv` contains:
 - **TV**: Advertising budget on TV (in $)
