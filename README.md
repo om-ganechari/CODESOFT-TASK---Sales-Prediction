@@ -14,7 +14,11 @@ This is a **Machine Learning Web App** built with **Streamlit** that predicts pr
 - **Radio**: Advertising budget on Radio (in $)
 - **Newspaper**: Advertising budget on Newspaper (in $)
 - **Sales**: Sales generated (in thousands of units)
+-------
+🚀 Live Demo
+Streamlit Cloud: [https://codesoft-task---sales-prediction-9vpmx8ak6cyadvgunvc5xd.streamlit.app/]
 
+----------
 ## ⚙️ How to Run Locally
 ```bash
 git clone https://github.com/yourusername/sales-prediction-app.git
