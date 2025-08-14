@@ -1,8 +1,4 @@
 
----
-
-## **📜 app.py**
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -57,3 +53,4 @@ news = st.slider("Newspaper Advertising Budget ($)", 0, 120, 20)
 # Predict
 pred = model.predict([[tv, radio, news]])[0]
 st.success(f"Predicted Sales: {pred:.2f} (in thousands of units)")
+
