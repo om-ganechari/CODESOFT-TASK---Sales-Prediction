@@ -8,7 +8,7 @@ This is a **Machine Learning Web App** built with **Streamlit** that predicts pr
 - Correlation heatmap of dataset
 - Simple & fast deployment
 - -----------
-##📂File Structure
+## file structure 
 sales-prediction-app/
 │
 ├── data/
